@@ -34,7 +34,7 @@ Here are some screenshots of the application:
 
 ![Home Screen](https://www.dropbox.com/scl/fi/3ztpbsggus1x2u98fsvn9/exploreScreen.png?rlkey=xm44chwo0inf88yb3qydgyktd&st=r2e1zb5x&dl=0)  
 ![Search Feature](https://www.dropbox.com/scl/fi/3ztpbsggus1x2u98fsvn9/exploreScreen.png?rlkey=xm44chwo0inf88yb3qydgyktd&st=r2e1zb5x&dl=0)  
-![Destination Details](https://www.dropbox.com/scl/fi/azxr9y1svmryobd7rvqpb/SplashScreen.png?rlkey=q5kj77iyyc0e9inkjqeosrm0p&st=muq0apy4&dl=0)  
+![Destination Details](https://www.dropbox.com/scl/fi/azxr9y1svmryobd7rvqpb/SplashScreen.png?rlkey=q5kj77iyyc0e9inkjqeosrm0p&st=ox2dwaft&dl=0)  
 
 
 ## Installation  
